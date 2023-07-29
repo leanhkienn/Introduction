@@ -14,7 +14,7 @@ My name is Anh Kien (James) Le. I am a Junior at University of Massachusetts, Am
 </a>    
 <a href="https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=Collection-Analysis&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=E-commerce-USstore-Advanced-PowerBI&theme=merko" />
 </a>  
 <a href="https://github.com/iposoon/Superstore-Sales-and-Expansion-strategy/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
