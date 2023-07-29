@@ -10,7 +10,7 @@ My name is Anh Kien (James) Le. I am a Junior at University of Massachusetts, Am
 
 <a href="https://github.com/leanhkienn/E-commerceBrazil-DataAnalysis-Visualization">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=User-Churn-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=E-commerceBrazil-DataAnalysis-Visualization&theme=radical"/>
 </a>    
 <a href="https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
