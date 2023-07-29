@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Do Van Tu. I graduated from Budapest Business School, majoring in Business Intelligence and Decision. I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses?<br>
+My name is Anh Kien (James) Le. I am a Junior at University of Massachusetts, Amherst, majoring in Informatics with Data Science Concentration and minoring in Business Administration. I am interested in the following topics: Data is the oil field of the 21st century, how do they create a big impact for businesses?<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leanhkien/)
