@@ -23,9 +23,9 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=StudentsScore_Project&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/leanhkienn/StudentsScore_Project">
+<a href="https://github.com/leanhkienn/NYCAirbnb">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=RFM-Analysis&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=NYCAirbnb&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/leanhkienn/StudentsScore_Project">
