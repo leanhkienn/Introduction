@@ -23,17 +23,17 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=StudentsScore_Project&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/iposoon/RFM-Analysis/">
+<a href="https://github.com/leanhkienn/StudentsScore_Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=RFM-Analysis&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/iposoon/Explore-Ecommerce-Dataset/">
+<a href="https://github.com/leanhkienn/StudentsScore_Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=Explore-Ecommerce-Dataset&theme=onedark" />
 </a>  
 
-<a href="https://github.com/iposoon/Cohort-Analysis-How-to-Analyze-User-Retention/">
+<a href="https://github.com/leanhkienn/StudentsScore_Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=Cohort-Analysis-How-to-Analyze-User-Retention&theme=cobalt" />
 </a>  
