@@ -14,9 +14,9 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=E-commerceBrazil-SalesAnalysis-SQL-PowerBI&theme=radical"/>
 </a>    
 
-<a href="https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI">
+<a href="https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=E-commerce-USstore-Advanced-PowerBI&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=ATM_Transactions_Business_Intelligence_Project&theme=merko" />
 </a> 
 
 <a href="https://github.com/leanhkienn/WebScraping-and-EDA-Project-using-Python">
