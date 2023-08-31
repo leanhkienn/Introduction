@@ -8,6 +8,10 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
 ## Here are my top 6 Projects with Data Analytics skills:
 
 
+<a href="https://github.com/leanhkienn/Customer_Churn_Analysis_PowerBI_Project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=Customer_Churn_Analysis_PowerBI_Project&theme=tokyonight" />
+</a>  
 
 <a href="https://github.com/leanhkienn/E-commerceBrazil-SalesAnalysis-SQL-PowerBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -24,10 +28,8 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=WebScraping-and-EDA-Project-using-Python&theme=gruvbox"/>
 </a>
 
-<a href="https://github.com/leanhkienn/NYCAirbnb">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=NYCAirbnb&theme=tokyonight" />
-</a>  
+
+
 <a href="https://github.com/leanhkienn/Flight-Price-Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=leanhkienn&repo=Flight-Price-Prediction&theme=onedark" />
