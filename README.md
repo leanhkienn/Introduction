@@ -4,7 +4,7 @@ My name is Anh Kien (James) Le. I am a Junior at the University of Massachusetts
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leanhkien/)
 <br>
-[![Portfolio Website]([https://i.stack.imgur.com/gVE0j.png)](https://james.page.dev/)
+[![Portfolio Website]([https://i.stack.imgur.com/gVE0j.png)](https://jamesle.pages.dev/)
 
 
 ## Here are my top 6 Projects with Data Analytics skills:
